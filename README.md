@@ -45,6 +45,8 @@ Notes
 - Data is stored inside the browser using localStorage under the key tracker_records.
 - No build or installation is required.
 - It is a static web app using plain HTML, CSS, and JavaScript
+
+
 video:
 https://youtu.be/KAXYu2OUXdI
 
